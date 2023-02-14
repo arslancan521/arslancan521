@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-It's Can and I am a business data analyst who has passion a passion of data and programming.
+It's Can and I am a business data analyst who has  a passion of data and programming.
 
 - :mortar_board: Business Administration Bachelor's Degree
 - :mortar_board: Information Technologies Master's Degree
